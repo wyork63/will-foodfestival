@@ -1,0 +1,23 @@
+{
+  "name": "will-foodfestival",
+  "version": "1.0.0",
+  "description": "Module 19 Lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyork63/will-foodfestival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyork63/will-foodfestival/issues"
+  },
+  "homepage": "https://github.com/wyork63/will-foodfestival#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "popper": "^1.0.1"
+  }
+}
